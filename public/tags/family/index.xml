@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>family on TheDataAreClean</title>
-    <link>https://thedataareclean.com/tags/family/</link>
+    <link>/tags/family/</link>
     <description>Recent content in family on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://thedataareclean.com/tags/family/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/family/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Finding Emo</title>
-      <link>https://thedataareclean.com/blog/2020-08-04-finding-emo/</link>
+      <link>/blog/2020-08-04-finding-emo/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://thedataareclean.com/blog/2020-08-04-finding-emo/</guid>
+      <guid>/blog/2020-08-04-finding-emo/</guid>
       <description>__  Family matters Often while talking to my friends about their childhood, the conversation steers into stories around family vacations, or family history. I am always left wondering why don’t I have any such stories to tell. Did I not have lot of fun as a child in my family? Did I not enquire enough about my family history? Do I even feel connected with my family? If this went dark very quickly, apologies.</description>
     </item>
     

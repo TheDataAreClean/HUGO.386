@@ -3,137 +3,142 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://thedataareclean.com/</loc>
+    <loc>/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/100days/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/learn/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/musings/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020-08-08-note-to-self/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/writing/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/internet/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/tags/100days/</loc>
+    <loc>/tags/privacy/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/blog/</loc>
+    <loc>/blog/2020-08-07-saving-private-data/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/categories/</loc>
-    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thedataareclean.com/categories/internet/</loc>
-    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thedataareclean.com/tags/privacy/</loc>
-    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thedataareclean.com/blog/2020-08-07-saving-private-data/</loc>
-    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thedataareclean.com/tags/</loc>
-    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thedataareclean.com/tags/learn/</loc>
+    <loc>/categories/me/</loc>
     <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/categories/me/</loc>
+    <loc>/blog/2020-08-06-the-balancing-act/</loc>
     <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/blog/2020-08-06-the-balancing-act/</loc>
-    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thedataareclean.com/categories/data/</loc>
+    <loc>/categories/data/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/tags/development/</loc>
+    <loc>/tags/development/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/tags/social/</loc>
+    <loc>/tags/social/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/blog/2020-08-05-data-suite/</loc>
+    <loc>/blog/2020-08-05-data-suite/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/tags/family/</loc>
+    <loc>/tags/family/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/blog/2020-08-04-finding-emo/</loc>
+    <loc>/blog/2020-08-04-finding-emo/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/tags/foss/</loc>
+    <loc>/tags/foss/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/blog/2020-08-03-foss-struggles/</loc>
+    <loc>/blog/2020-08-03-foss-struggles/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/categories/technology/</loc>
+    <loc>/categories/technology/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/tags/musings/</loc>
+    <loc>/blog/2020-08-02-the-stress/</loc>
     <lastmod>2020-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/blog/2020-08-02-the-stress/</loc>
-    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thedataareclean.com/categories/writing/</loc>
-    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thedataareclean.com/blog/2020-08-01-manifesto/</loc>
+    <loc>/blog/2020-08-01-manifesto/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/tags/manifesto/</loc>
+    <loc>/tags/manifesto/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thedataareclean.com/archives/</loc>
+    <loc>/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   

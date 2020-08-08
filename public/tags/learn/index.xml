@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>learn on TheDataAreClean</title>
-    <link>https://thedataareclean.com/tags/learn/</link>
+    <link>/tags/learn/</link>
     <description>Recent content in learn on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://thedataareclean.com/tags/learn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/learn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Note to Self</title>
+      <link>/blog/2020-08-08-note-to-self/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-08-08-note-to-self/</guid>
+      <description>__  If you have come here for the first time, welcome! It’s mostly me talking about my feelings and other shit. And if you have been here before, you know the drill. Nothing beyond this statement is going to make any sense.
+So if you have been here before you might also know that last week I made a commitment to write for 100 days straight to get over my fear of writing and improve my skills along the way.</description>
+    </item>
+    
+    <item>
       <title>The Balancing Act</title>
-      <link>https://thedataareclean.com/blog/2020-08-06-the-balancing-act/</link>
+      <link>/blog/2020-08-06-the-balancing-act/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://thedataareclean.com/blog/2020-08-06-the-balancing-act/</guid>
+      <guid>/blog/2020-08-06-the-balancing-act/</guid>
       <description>__  PSA: I am too late to the writing party tonight. It’s 2136 HRS at the time of me starting and I am fairly tired, might be pretty much garbage. Feel free to skip this one, but I shall persevere!
 Learn I can’t sit still, I am always doing something or going to do something. I am a restless being and mostly just stop when I go to sleep.</description>
     </item>

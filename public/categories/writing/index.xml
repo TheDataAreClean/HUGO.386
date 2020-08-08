@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>writing on TheDataAreClean</title>
-    <link>https://thedataareclean.com/categories/writing/</link>
+    <link>/categories/writing/</link>
     <description>Recent content in writing on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://thedataareclean.com/categories/writing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/writing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Note to Self</title>
+      <link>/blog/2020-08-08-note-to-self/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-08-08-note-to-self/</guid>
+      <description>__  If you have come here for the first time, welcome! It’s mostly me talking about my feelings and other shit. And if you have been here before, you know the drill. Nothing beyond this statement is going to make any sense.
+So if you have been here before you might also know that last week I made a commitment to write for 100 days straight to get over my fear of writing and improve my skills along the way.</description>
+    </item>
+    
+    <item>
       <title>The Stress</title>
-      <link>https://thedataareclean.com/blog/2020-08-02-the-stress/</link>
+      <link>/blog/2020-08-02-the-stress/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://thedataareclean.com/blog/2020-08-02-the-stress/</guid>
+      <guid>/blog/2020-08-02-the-stress/</guid>
       <description>__  Yesterday, I took the “brave” step of publishing my first ever blog. It was mostly an announcement about of this journey I have embarked on. Somewhere in the mix was also this GRAND declaration of writing everyday for 100 days. 100 days of stuff which I feel is worth talking about. That’s a lot of stuff, especially when I live alone, talk to just 3 people and have no clue how popular culture works.</description>
     </item>
     

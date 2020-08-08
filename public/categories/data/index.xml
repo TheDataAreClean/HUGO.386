@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data on TheDataAreClean</title>
-    <link>https://thedataareclean.com/categories/data/</link>
+    <link>/categories/data/</link>
     <description>Recent content in data on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://thedataareclean.com/categories/data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Suite Life of Data Stories</title>
-      <link>https://thedataareclean.com/blog/2020-08-05-data-suite/</link>
+      <link>/blog/2020-08-05-data-suite/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://thedataareclean.com/blog/2020-08-05-data-suite/</guid>
+      <guid>/blog/2020-08-05-data-suite/</guid>
       <description>__  Landscape The extensive list of challenges the development sector faces are well documented and understood. One aspect that I beleive is still underserved is the data literacy and capacity of the organisation in the space. In today’s world where data has become such a key factor in of the impact conversation, for good or for bad, it requires more attention. Even when substantial data collection efforts are undertaken by any organisation, the data architecture is always an after thought.</description>
     </item>
     

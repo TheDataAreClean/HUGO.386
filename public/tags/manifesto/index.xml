@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>manifesto on TheDataAreClean</title>
-    <link>https://thedataareclean.com/tags/manifesto/</link>
+    <link>/tags/manifesto/</link>
     <description>Recent content in manifesto on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://thedataareclean.com/tags/manifesto/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/manifesto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Manifesto</title>
-      <link>https://thedataareclean.com/blog/2020-08-01-manifesto/</link>
+      <link>/blog/2020-08-01-manifesto/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://thedataareclean.com/blog/2020-08-01-manifesto/</guid>
+      <guid>/blog/2020-08-01-manifesto/</guid>
       <description>__  Hello not-so-gentle people of the interwebs, welcome to my blog.
 Who am I? I am cube, yes cube, I am a fairly private person and incredibly awkward at times so let’s just go with that. It’s not like you won’t find my name on the internet if you look around, but why offer it myself?
  What is this blog about? Who the fuck even knows? There are a lot of things that excite me; open education, data privacy, cycling, books !</description>
