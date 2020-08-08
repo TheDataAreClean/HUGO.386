@@ -1,0 +1,15 @@
+<footer class="container">
+    <hr class="soften">
+    <p>
+        {{- partial "copyright.html" . -}}
+    </p>
+    <p class="text-center">
+        {{ with .Site.Params.email }}<a href="{{ . }}" target="_blank">E-mail</a> {{ end }}
+        {{ with .Site.Params.facebook }}<a href="{{ . }}" target="_blank">Facebook</a> {{ end }}
+        {{ with .Site.Params.twitter }}<a href="{{ . }}" target="_blank">Twitter</a> {{ end }}
+        {{ with .Site.Params.linkedin }}<a href="{{ . }}" target="_blank">Linkedin</a> {{ end }}
+        {{ with .Site.Params.github }}<a href="{{ . }}" target="_blank">GitHub</a> {{ end }}
+        {{ with .Site.Params.gitlab }}<a href="{{ . }}" target="_blank">GitLab</a>{{ end }}
+    </p>
+</footer>
+

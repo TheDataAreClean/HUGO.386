@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>foss on TheDataAreClean</title>
+    <link>/tags/foss/</link>
+    <description>Recent content in foss on TheDataAreClean</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/foss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My struggles with FOSS</title>
+      <link>/blog/2020-08-03-foss-struggles/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-08-03-foss-struggles/</guid>
+      <description>__  I love technology I absolutely love it! The joy of possessing a new gadget, trying out a new app, figuring out how pieces of technology operate and customise them exactly to meet my needs. The better something is made, the more there is opportunity to mould it, I am sold! Take my money, please make my life better.
+ What is all the FOSS about? On top of all the gifts (and problems) technology has given to this world, probably the absolute best thing in my opinion is the FOSS ecosystem.</description>
+    </item>
+    
+  </channel>
+</rss>

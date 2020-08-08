@@ -1,0 +1,43 @@
+---
+title: Manifesto
+author: TheDataAreClean
+date: '2020-08-01'
+slug: 2020-08-01-manifesto
+categories:
+  - me
+tags:
+  - 100days
+  - manifesto
+  - musings
+description: 'What am I doing even?'
+---
+
+* __
+
+Hello not-so-gentle people of the interwebs, welcome to my blog.
+
+# Who am I?
+I am **_cube_**, yes cube, I am a fairly private person and incredibly awkward at times so let's just go with that. It's not like you won't find my name on the internet if you look around, but why offer it myself?
+
+# What is this blog about?
+Who the fuck even knows? There are a lot of things that excite me; open education, data privacy, cycling, books ! I hope to share a lot more of my thoughts, some on the topics mentioned above, some on the research or projects I am involved in.
+
+# Why a blog?
+This one is tricky. I wanted to write for as long as I can remember, there were just a couple of teeny tiny problems. I am incredibly scared of writing, my language and grammar skills are fairly limited. Also the general existential dread, the anxiety of sharing my thoughts with the world and regretting everything ever, but we will ignore the last one for now. Moving on!
+
+# Why now?
+No better time than present. I also got inspired by the [100 Day Writing Challenge](https://listed.to/@Listed/5202/100-day-writing-challenge){target="_blank"} on [Listed](https://listed.to/){target="_blank"}. So welcome to the nightmare, it's only 100 days short! Hopefully I will also improve my writing skills along the way, less business e-mail-y sections and stuff.
+
+# What is going to happen?
+I will be wrong about some things, yes you read it correctly. Nothing is permanent in this world, my ideas the least of them. I hope to learn, course correct and move forward. The only way is through!
+
+**Important note**, all the content posted on this blog will be available under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){target="_blank"} license. If you already know about it then you are sorted, if you don't I strongly recommend you read about it. It might also give you an insight into my beliefs.
+
+# So..
+Stick around if you like the vibe, or don't! Free will and shit. 
+
+Also, I am pretty satisfied with the theme I have picked for this blog, you can find out more about it in the footer. Any validation on that front is appreciated.
+
+**_TATA!_**
+
+**_cube_**

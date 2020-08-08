@@ -1,0 +1,34 @@
+---
+title: The Suite Life of Data Stories
+author: TheDataAreClean
+date: '2020-08-05'
+slug: 2020-08-05-data-suite
+categories:
+  - data
+tags:
+  - 100days
+  - development
+  - social
+description: 'Bridging the development sector data gap..'
+---
+
+* __
+
+# Landscape
+The extensive list of challenges the development sector faces are well documented and understood. One aspect that I beleive is still underserved is the data literacy and capacity of the organisation in the space. In today's world where data has become such a key factor in of the impact conversation, for good or for bad, it requires more attention. Even when substantial data collection efforts are undertaken by any organisation, the data architecture is always an after thought. In some cases it's just too late.
+
+# Challenges
+A development sector organisation already has a lot to worry about; funding, sustainability, buy-in, and now the pandemic! Data sanity just adds more complexity on top of that. Especially when it is not a primary skill of the space and organisations have to compete with big tech and startups alike for decent talent to help solve their challenges.
+
+# Reactive
+Organisations working with data often reach a point where the scope of the operations expands so vast that manual interventions are just not feasible anymore. And thus begins the process of taming the beast. How to automate the process, make it sustainable for long term, easy to access all while not hampering the existing operations in any way.
+
+# Bridge
+In my personal experience of working with organisations in the education sector, the challenge and scale of the problem is so similar across implementations I sometimes wonder if they were conspiring together. But I believe that also is the beauty of the problem, all paths lead to similar conclusions. And that is where we are, how to build a data architecture pipeline that not only creates a stable alternative but also a sustainable option for any future expansions.
+
+# Proactive
+I believe that even trickier bit will be fostering that literacy so the decisions around data architecture happen even before data collection commences. Creating a data suite of sorts that can enable organisations to think in this direction beforehand and be supported in their ambition through packaged sustainable architecture. That is the dream, and that's what we should be building towards.
+
+**_TATA!_**
+
+**_cube_**

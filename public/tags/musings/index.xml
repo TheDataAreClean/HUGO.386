@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>musings on TheDataAreClean</title>
+    <link>/tags/musings/</link>
+    <description>Recent content in musings on TheDataAreClean</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/musings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Stress</title>
+      <link>/blog/2020-08-02-the-stress/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-08-02-the-stress/</guid>
+      <description>__  Yesterday, I took the “brave” step of publishing my first ever blog. It was mostly an announcement about of this journey I have embarked on. Somewhere in the mix was also this GRAND declaration of writing everyday for 100 days. 100 days of stuff which I feel is worth talking about. That’s a lot of stuff, especially when I live alone, talk to just 3 people and have no clue how popular culture works.</description>
+    </item>
+    
+    <item>
+      <title>Manifesto</title>
+      <link>/blog/2020-08-01-manifesto/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-08-01-manifesto/</guid>
+      <description>__  Hello not-so-gentle people of the interwebs, welcome to my blog.
+Who am I? I am cube, yes cube, I am a fairly private person and incredibly awkward at times so let’s just go with that. It’s not like you won’t find my name on the internet if you look around, but why offer it myself?
+ What is this blog about? Who the fuck even knows? There are a lot of things that excite me; open education, data privacy, cycling, books !</description>
+    </item>
+    
+  </channel>
+</rss>
