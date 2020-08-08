@@ -4,9 +4,10 @@ author: TheDataAreClean
 date: '2020-08-07'
 slug: 2020-08-07-saving-private-data
 categories:
-  - privacy
+  - internet
 tags:
   - 100days
+  - privacy
 description: 'Free will in the digital age..'
 ---
 
