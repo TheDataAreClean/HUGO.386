@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>learn on TheDataAreClean</title>
-    <link>/tags/learn/</link>
+    <link>https://thedataareclean.com/tags/learn/</link>
     <description>Recent content in learn on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/learn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thedataareclean.com/tags/learn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Balancing Act</title>
-      <link>/blog/2020-08-06-the-balancing-act/</link>
+      <link>https://thedataareclean.com/blog/2020-08-06-the-balancing-act/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-08-06-the-balancing-act/</guid>
+      <guid>https://thedataareclean.com/blog/2020-08-06-the-balancing-act/</guid>
       <description>__  PSA: I am too late to the writing party tonight. It’s 2136 HRS at the time of me starting and I am fairly tired, might be pretty much garbage. Feel free to skip this one, but I shall persevere!
 Learn I can’t sit still, I am always doing something or going to do something. I am a restless being and mostly just stop when I go to sleep.</description>
     </item>

@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on TheDataAreClean</title>
-    <link>/tags/</link>
+    <link>https://thedataareclean.com/tags/</link>
     <description>Recent content in Tags on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thedataareclean.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>100days</title>
-      <link>/tags/100days/</link>
+      <link>https://thedataareclean.com/tags/100days/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/100days/</guid>
+      <guid>https://thedataareclean.com/tags/100days/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>/tags/privacy/</link>
+      <link>https://thedataareclean.com/tags/privacy/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/privacy/</guid>
+      <guid>https://thedataareclean.com/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>learn</title>
-      <link>/tags/learn/</link>
+      <link>https://thedataareclean.com/tags/learn/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/learn/</guid>
+      <guid>https://thedataareclean.com/tags/learn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>/tags/development/</link>
+      <link>https://thedataareclean.com/tags/development/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/development/</guid>
+      <guid>https://thedataareclean.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>social</title>
-      <link>/tags/social/</link>
+      <link>https://thedataareclean.com/tags/social/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/social/</guid>
+      <guid>https://thedataareclean.com/tags/social/</guid>
       <description></description>
     </item>
     
     <item>
       <title>family</title>
-      <link>/tags/family/</link>
+      <link>https://thedataareclean.com/tags/family/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/family/</guid>
+      <guid>https://thedataareclean.com/tags/family/</guid>
       <description></description>
     </item>
     
     <item>
       <title>foss</title>
-      <link>/tags/foss/</link>
+      <link>https://thedataareclean.com/tags/foss/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/foss/</guid>
+      <guid>https://thedataareclean.com/tags/foss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>musings</title>
-      <link>/tags/musings/</link>
+      <link>https://thedataareclean.com/tags/musings/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/musings/</guid>
+      <guid>https://thedataareclean.com/tags/musings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>manifesto</title>
-      <link>/tags/manifesto/</link>
+      <link>https://thedataareclean.com/tags/manifesto/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/manifesto/</guid>
+      <guid>https://thedataareclean.com/tags/manifesto/</guid>
       <description></description>
     </item>
     

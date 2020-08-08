@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on TheDataAreClean</title>
-    <link>/blog/</link>
+    <link>https://thedataareclean.com/blog/</link>
     <description>Recent content in Blogs on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thedataareclean.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Saving Private Data</title>
-      <link>/blog/2020-08-07-saving-private-data/</link>
+      <link>https://thedataareclean.com/blog/2020-08-07-saving-private-data/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-08-07-saving-private-data/</guid>
+      <guid>https://thedataareclean.com/blog/2020-08-07-saving-private-data/</guid>
       <description>__  The Interwebs So, I have been contemplating this thought for a while and I don’t know where I stand on this. What has been the collective impact of the internet on our world? I know the status is ever changing, we have come through a lot of movements and I am also a fairly pessimistic person. But I still believe the collective good far outweighs the collective harm.</description>
     </item>
     
     <item>
       <title>The Balancing Act</title>
-      <link>/blog/2020-08-06-the-balancing-act/</link>
+      <link>https://thedataareclean.com/blog/2020-08-06-the-balancing-act/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-08-06-the-balancing-act/</guid>
+      <guid>https://thedataareclean.com/blog/2020-08-06-the-balancing-act/</guid>
       <description>__  PSA: I am too late to the writing party tonight. It’s 2136 HRS at the time of me starting and I am fairly tired, might be pretty much garbage. Feel free to skip this one, but I shall persevere!
 Learn I can’t sit still, I am always doing something or going to do something. I am a restless being and mostly just stop when I go to sleep.</description>
     </item>
     
     <item>
       <title>The Suite Life of Data Stories</title>
-      <link>/blog/2020-08-05-data-suite/</link>
+      <link>https://thedataareclean.com/blog/2020-08-05-data-suite/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-08-05-data-suite/</guid>
+      <guid>https://thedataareclean.com/blog/2020-08-05-data-suite/</guid>
       <description>__  Landscape The extensive list of challenges the development sector faces are well documented and understood. One aspect that I beleive is still underserved is the data literacy and capacity of the organisation in the space. In today’s world where data has become such a key factor in of the impact conversation, for good or for bad, it requires more attention. Even when substantial data collection efforts are undertaken by any organisation, the data architecture is always an after thought.</description>
     </item>
     
     <item>
       <title>Finding Emo</title>
-      <link>/blog/2020-08-04-finding-emo/</link>
+      <link>https://thedataareclean.com/blog/2020-08-04-finding-emo/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-08-04-finding-emo/</guid>
+      <guid>https://thedataareclean.com/blog/2020-08-04-finding-emo/</guid>
       <description>__  Family matters Often while talking to my friends about their childhood, the conversation steers into stories around family vacations, or family history. I am always left wondering why don’t I have any such stories to tell. Did I not have lot of fun as a child in my family? Did I not enquire enough about my family history? Do I even feel connected with my family? If this went dark very quickly, apologies.</description>
     </item>
     
     <item>
       <title>My struggles with FOSS</title>
-      <link>/blog/2020-08-03-foss-struggles/</link>
+      <link>https://thedataareclean.com/blog/2020-08-03-foss-struggles/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-08-03-foss-struggles/</guid>
+      <guid>https://thedataareclean.com/blog/2020-08-03-foss-struggles/</guid>
       <description>__  I love technology I absolutely love it! The joy of possessing a new gadget, trying out a new app, figuring out how pieces of technology operate and customise them exactly to meet my needs. The better something is made, the more there is opportunity to mould it, I am sold! Take my money, please make my life better.
  What is all the FOSS about? On top of all the gifts (and problems) technology has given to this world, probably the absolute best thing in my opinion is the FOSS ecosystem.</description>
     </item>
     
     <item>
       <title>The Stress</title>
-      <link>/blog/2020-08-02-the-stress/</link>
+      <link>https://thedataareclean.com/blog/2020-08-02-the-stress/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-08-02-the-stress/</guid>
+      <guid>https://thedataareclean.com/blog/2020-08-02-the-stress/</guid>
       <description>__  Yesterday, I took the “brave” step of publishing my first ever blog. It was mostly an announcement about of this journey I have embarked on. Somewhere in the mix was also this GRAND declaration of writing everyday for 100 days. 100 days of stuff which I feel is worth talking about. That’s a lot of stuff, especially when I live alone, talk to just 3 people and have no clue how popular culture works.</description>
     </item>
     
     <item>
       <title>Manifesto</title>
-      <link>/blog/2020-08-01-manifesto/</link>
+      <link>https://thedataareclean.com/blog/2020-08-01-manifesto/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-08-01-manifesto/</guid>
+      <guid>https://thedataareclean.com/blog/2020-08-01-manifesto/</guid>
       <description>__  Hello not-so-gentle people of the interwebs, welcome to my blog.
 Who am I? I am cube, yes cube, I am a fairly private person and incredibly awkward at times so let’s just go with that. It’s not like you won’t find my name on the internet if you look around, but why offer it myself?
  What is this blog about? Who the fuck even knows? There are a lot of things that excite me; open education, data privacy, cycling, books !</description>

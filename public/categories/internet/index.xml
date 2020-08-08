@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>internet on TheDataAreClean</title>
-    <link>/categories/internet/</link>
+    <link>https://thedataareclean.com/categories/internet/</link>
     <description>Recent content in internet on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/internet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thedataareclean.com/categories/internet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Saving Private Data</title>
-      <link>/blog/2020-08-07-saving-private-data/</link>
+      <link>https://thedataareclean.com/blog/2020-08-07-saving-private-data/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-08-07-saving-private-data/</guid>
+      <guid>https://thedataareclean.com/blog/2020-08-07-saving-private-data/</guid>
       <description>__  The Interwebs So, I have been contemplating this thought for a while and I don’t know where I stand on this. What has been the collective impact of the internet on our world? I know the status is ever changing, we have come through a lot of movements and I am also a fairly pessimistic person. But I still believe the collective good far outweighs the collective harm.</description>
     </item>
     

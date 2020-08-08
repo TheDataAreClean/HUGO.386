@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>writing on TheDataAreClean</title>
-    <link>/categories/writing/</link>
+    <link>https://thedataareclean.com/categories/writing/</link>
     <description>Recent content in writing on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/writing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thedataareclean.com/categories/writing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Stress</title>
-      <link>/blog/2020-08-02-the-stress/</link>
+      <link>https://thedataareclean.com/blog/2020-08-02-the-stress/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-08-02-the-stress/</guid>
+      <guid>https://thedataareclean.com/blog/2020-08-02-the-stress/</guid>
       <description>__  Yesterday, I took the “brave” step of publishing my first ever blog. It was mostly an announcement about of this journey I have embarked on. Somewhere in the mix was also this GRAND declaration of writing everyday for 100 days. 100 days of stuff which I feel is worth talking about. That’s a lot of stuff, especially when I live alone, talk to just 3 people and have no clue how popular culture works.</description>
     </item>
     
