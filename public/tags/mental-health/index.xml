@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mental health on TheDataAreClean</title>
+    <link>/tags/mental-health/</link>
+    <description>Recent content in mental health on TheDataAreClean</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Solution</title>
+      <link>/blog/2020-08-09-the-solution/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-08-09-the-solution/</guid>
+      <description>__  Friday evening all of us at work were doing another video call, but this we were discussing how everything has changed since the pandemic and what do we miss. So, we are a completely remote organisation without any office, but people used to meet, work together, learn from each other and most importantly about each other. And that is where the conversation landed, how what we miss most is being around each other and that sense of connection.</description>
+    </item>
+    
+  </channel>
+</rss>
