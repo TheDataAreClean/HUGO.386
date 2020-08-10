@@ -4,7 +4,7 @@ author: TheDataAreClean
 date: '2020-08-10'
 slug: 2020-08-10-daily-basis
 categories:
-  - mental health
+  - me
 tags:
   - 100days
   - routine
