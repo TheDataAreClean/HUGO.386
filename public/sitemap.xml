@@ -4,22 +4,47 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/100days/</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/community/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020-08-11-community-matters/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/leadership/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -34,11 +59,6 @@
   
   <url>
     <loc>/tags/routine/</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,11 +114,6 @@
   
   <url>
     <loc>/categories/data/</loc>
-    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/development/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url>
   

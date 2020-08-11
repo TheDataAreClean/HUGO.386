@@ -6,10 +6,19 @@
     <description>Recent content in development on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Community Matters</title>
+      <link>/blog/2020-08-11-community-matters/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-08-11-community-matters/</guid>
+      <description>__  For a while I have been wondering what constitutes being a leader, how do you differentiate a good one from a bad one, how do you even evaluate their contributions? Do you lead by example or by guidance? If being a leader means giving everyone the space to have a voice, does it also mean checking with everyone if they have something to say? Does any of this even matter if the only thing that anyone looks at is the final output?</description>
+    </item>
     
     <item>
       <title>The Suite Life of Data Stories</title>

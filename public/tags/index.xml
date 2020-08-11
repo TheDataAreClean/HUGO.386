@@ -6,7 +6,7 @@
     <description>Recent content in Tags on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>100days</title>
       <link>/tags/100days/</link>
-      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/100days/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>/tags/development/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leadership</title>
+      <link>/tags/leadership/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/leadership/</guid>
       <description></description>
     </item>
     
@@ -53,15 +71,6 @@
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>/tags/development/</link>
-      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/development/</guid>
       <description></description>
     </item>
     
