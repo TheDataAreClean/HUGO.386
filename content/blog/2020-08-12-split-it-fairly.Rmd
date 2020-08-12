@@ -1,0 +1,33 @@
+---
+title: Split it Fairly
+author: TheDataAreClean
+date: '2020-08-12'
+slug: 2020-08-12-split-it-fairly
+categories:
+  - work
+tags:
+  - 100days
+  - development
+description: 'Know vs now..'
+---
+
+* __
+
+# Everything
+I don't know if you have noticed, the world has been pretty much going down in shits recently. Look anywhere, there is this long drawn process of alienation (through the structures of society) and polarisation (by the power bearers of the same structures), leading to rise in multiple forms of extremism. **Hint**: Capitalism. I am not a particularly hopeful person when it comes to the human race as a whole, the current scenario doesn't help the case either.
+
+# Act
+We also live in an extremely connected world where every small change is reported and scrutinised worldwide. The scrutiny adds pressure and subsequently the need to act right away. A lot of what is discussed is urgent but a lot of it is also a product on the hyper connected news cycles we line in. It has been fairly argued by our all mighty saviour [Hans Rosling](https://en.wikipedia.org/wiki/Hans_Rosling){target="_blank"} in his book [Factfulness](https://www.goodreads.com/book/show/34890015-factfulness){target="_blank"} that "Why Things Are Better Than You Think". As a result of this hyper connectedness a lot of things we end up acting upon need long term sustainable planning, and the important stuff that needs immediate attention gets drowned out.
+
+# Now
+There is an urgent need to identify what can be addressed with immediate action and what requires better thought out actions to sustain any change. Sometimes fixing things for the now has unintended consequences, consequences that were not anticipated. There is a brilliant [newsletter](https://publicpolicy.substack.com/){target="_blank"} just about that, I strongly recommend you check it out.
+
+# Slow
+It becomes critical to think about the unintended consequences of your actions as much as their impact. It becomes critical to slow down, understand the network effects and understand what will get affected by the change. Taking it slow does not mean something needs to be left behind.
+
+# Know
+So today I am advocating non-action, I am advocating the need to sit down and think about the effects your actions will have. Even when something sounds like the most important thing to do, what would it mean to pause and think about it. That is the philosophy I try to live by. Also because this moving too fast just gives me a lot of anxiety, but for now let's stick to the other explanation. I am working on a couple of research projects that exercise similar philosophies. I hope to share some of those ideas in the coming weeks. Ideas demanding knowledge over action. Until then..
+
+**_TATA!_**
+
+**_cube_**
