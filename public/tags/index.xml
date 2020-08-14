@@ -6,7 +6,7 @@
     <description>Recent content in Tags on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,36 @@
     <item>
       <title>100days</title>
       <link>/tags/100days/</link>
-      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/100days/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>/tags/development/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>foss</title>
+      <link>/tags/foss/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/foss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>law and justice</title>
+      <link>/tags/law-and-justice/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/law-and-justice/</guid>
       <description></description>
     </item>
     
@@ -26,15 +53,6 @@
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/learn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>/tags/development/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/development/</guid>
       <description></description>
     </item>
     
@@ -89,15 +107,6 @@
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/family/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>foss</title>
-      <link>/tags/foss/</link>
-      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/foss/</guid>
       <description></description>
     </item>
     

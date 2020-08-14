@@ -1,0 +1,56 @@
+---
+title: Another Brick in The Wall - Part 1
+author: TheDataAreClean
+date: '2020-08-14'
+slug: 2020-08-14-abitw-one
+categories:
+  - education
+tags:
+  - 100days
+  - development
+  - foss
+  - law and justice
+description: 'Caution is warranted !'
+---
+
+* __
+
+# Out of syllabus
+The education system in India has been a tricky space to say the least. The sector as a whole has been historically undeserved and / or has encountered poorly implemented policy decisions over time. This has lead to gaps (read, chasms) in the system which have proven challenging to overcome even after introduction of policies like [RTE](http://righttoeducation.in/) in 2009 - which you could argue was well-intentioned in principle, but lead to further the clusterfuck and complicate the landscape.
+
+# Some numbers
+While almost everyone is enrolled in the schools - enrollments rates into educational institutions range from 91.3% among 4-year-old rising to 99.5% among 8-year-olds `(1)`, not all of those who are attend - one in every four child between the ages 6-14 does not attend school to receive any form of formal education across the country `(2)`. The foundations are in shambles - In 2018, only a quarter of all children in Std III were at ‘grade level’ requiring immediate help in acquiring foundational skills in literacy and numeracy `(2)`. And the teachers don't care - the absence rates of teaching staff, ranging 15-42% across the nation `(3)`, they actually leave the kids alone.
+
+# Foundation
+Another critical aspect to quality early education is the ability to build a strong foundation. Without that foundations in place, children cannot meaningfully benefit from additional years in school. There is substantial research pointing to the need that exposure to enabling environments and access to appropriate inputs during early years (defined as ages 4-8) is fundamental to ensuring that children have a firm foundation on which to build, both in school and in life `(1)`.
+
+**Tangent**: Sometimes it's frustrating to quote these facts and numbers. Not because there is any problem with them, while they are incredibly important they sometimes also feel like a move away from the conversation at hand. And ruin my jokes. My jokes!
+
+# I can see again
+There are already inherent complexities of operating in the education sector. Additionally, there is a lack of awareness, documentation or even understanding of the space and important actors as a whole. You can't make complicated decisions about things you can't see. 
+
+There is a need to better map the sector and understand what do I touch and not blow everything else up. To create systems which identify the key areas of intervention that create sustainable impact. The collective good of your actions far outreaching the collective harm.
+
+# Approaching the Unkown
+The word of this lifetime is intersectionality. No solution can be looked at in a silo. And society, and in extension any public intervention cuts across sectors. For example, any reform in the education sector would strongly depend on the financial, legal and geographical actions of the state.
+
+With that in mind we are exploring two threads that we believe can be the guiding light for our work. Understand child rights and it's implication on education, and the use of Free and Open Source Software (FOSS) to accelerate the access to that education. More on these later!
+
+# T.I.L. , but longer
+The objective is not only too know, but also learn how this information can be used to create sustainable impact on ground. With that in mind I will also be putting all the [research](https://github.com/TheDataAreClean/education) work I do in the open. You can access it, use it, tell me what's wrong with it. Every input is welcome!
+
+# The Elephant in the room
+You may have noticed I have not mentioned the National Education Policy ([NEP](https://www.mhrd.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf)) 2020 anywhere in the conversation above. Because we are not there yet. There is a lot to be aware, careful and excited about in the policy, but it would be foolish to judge all of it till we see how it translates to ground. Like I mentioned earlier, without good implementation even well meaning policies cause unintended harm.
+
+### References
+
+1 - [ASER 2019 Report](http://img.asercentre.org/docs/ASER%202019/ASER2019%20report%20/aserreport2019earlyyearsfinal.pdf)  
+2 - [ASER 2018 Report](http://img.asercentre.org/docs/ASER%202018/Release%20Material/aserreport2018.pdf)  
+3 - [Teacher Absence in India: A Snapshot](https://academic.oup.com/jeea/article-abstract/3/2-3/658/2281517?redirectedFrom=fulltext)  
+4 - [Transforming the Education Workforce](https://educationcommission.org/transformingtheeducationworkforce/)  
+
+Today's blog is meant to be **Part 1** in a series of three, over which I will try to elaborate more on the threads shared above. Watch this space!
+
+**_TATA!_**
+
+**_cube_**

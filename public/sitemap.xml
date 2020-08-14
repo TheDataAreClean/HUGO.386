@@ -4,22 +4,52 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/100days/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020-08-14-abitw-one/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/education/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/foss/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/law-and-justice/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -35,16 +65,6 @@
   <url>
     <loc>/blog/2020-08-13-reader-indigestion/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/development/</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -155,11 +175,6 @@
   <url>
     <loc>/blog/2020-08-04-finding-emo/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/foss/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
