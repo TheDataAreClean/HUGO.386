@@ -31,13 +31,13 @@ There are already inherent complexities of operating in the education sector. Ad
 
 There is a need to better map the sector and understand what do I touch and not blow everything else up. To create systems which identify the key areas of intervention that create sustainable impact. The collective good of your actions far outreaching the collective harm.
 
-# Approaching the Unkown
+# Approaching the Unknown
 The word of this lifetime is intersectionality. No solution can be looked at in a silo. And society, and in extension any public intervention cuts across sectors. For example, any reform in the education sector would strongly depend on the financial, legal and geographical actions of the state.
 
 With that in mind we are exploring two threads that we believe can be the guiding light for our work. Understand child rights and it's implication on education, and the use of Free and Open Source Software (FOSS) to accelerate the access to that education. More on these later!
 
 # T.I.L. , but longer
-The objective is not only too know, but also learn how this information can be used to create sustainable impact on ground. With that in mind I will also be putting all the [research](https://github.com/TheDataAreClean/education) work I do in the open. You can access it, use it, tell me what's wrong with it. Every input is welcome!
+The objective is not only to know, but also learn how this information can be used to create sustainable impact on ground. With that in mind I will also be putting all the [research](https://github.com/TheDataAreClean/education) work I do in the open. You can access it, use it, tell me what's wrong with it. Every input is welcome!
 
 # The Elephant in the room
 You may have noticed I have not mentioned the National Education Policy ([NEP](https://www.mhrd.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf)) 2020 anywhere in the conversation above. Because we are not there yet. There is a lot to be aware, careful and excited about in the policy, but it would be foolish to judge all of it till we see how it translates to ground. Like I mentioned earlier, without good implementation even well meaning policies cause unintended harm.
