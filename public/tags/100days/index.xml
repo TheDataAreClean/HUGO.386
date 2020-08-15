@@ -6,10 +6,19 @@
     <description>Recent content in 100days on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/100days/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Another Brick in The Wall - Part 2</title>
+      <link>/blog/2020-08-15-abitw-two/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-08-15-abitw-two/</guid>
+      <description>__  Flashback ! In yesterday’s blog I tried to highlight the fact that the education system in India is a shit show. There is an immediate need for a larger understanding of the ecosystem to bring in any meaningful, sustainable change. With that in mind, today I am discussing one of the ideas currently in the research phase. The issue of child rights and it’s connection to education.</description>
+    </item>
     
     <item>
       <title>Another Brick in The Wall - Part 1</title>
@@ -140,6 +149,18 @@ Learn I can’t sit still, I am always doing something or going to do something.
       <description>__  Hello not-so-gentle people of the interwebs, welcome to my blog.
 Who am I? I am cube, yes cube, I am a fairly private person and incredibly awkward at times so let’s just go with that. It’s not like you won’t find my name on the internet if you look around, but why offer it myself?
  What is this blog about? Who the fuck even knows? There are a lot of things that excite me; open education, data privacy, cycling, books !</description>
+    </item>
+    
+    <item>
+      <title>Draft | Another Brick in The Wall - Part 3</title>
+      <link>/blog/2020-08-16-abitw-three/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-08-16-abitw-three/</guid>
+      <description>  __  Watch This Space TATA!
+cube
+Part 1 &amp;amp; Part 2 of the series.
+ </description>
     </item>
     
   </channel>

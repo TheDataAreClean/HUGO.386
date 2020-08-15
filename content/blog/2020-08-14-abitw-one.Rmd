@@ -10,6 +10,7 @@ tags:
   - development
   - foss
   - law and justice
+  - abitw
 description: 'Caution is warranted !'
 ---
 
@@ -54,3 +55,5 @@ Today's blog is meant to be **Part 1** in a series of three, over which I will t
 **_TATA!_**
 
 **_cube_**
+
+[Part 2](https://thedataareclean.com/blog/2020-08-15-abitw-two/) & [Part 3](https://thedataareclean.com/blog/2020-08-16-abitw-three/) of the [series](https://thedataareclean.com/tags/abitw/).

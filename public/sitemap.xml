@@ -4,12 +4,57 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/100days/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/abitw/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020-08-15-abitw-two/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/education/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/law-and-justice/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/musings/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,37 +63,7 @@
   </url>
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/development/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/education/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/foss/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/law-and-justice/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -109,11 +124,6 @@
   
   <url>
     <loc>/categories/mental-health/</loc>
-    <lastmod>2020-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/musings/</loc>
     <lastmod>2020-08-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -210,6 +220,10 @@
   <url>
     <loc>/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020-08-16-abitw-three/</loc>
   </url>
   
 </urlset>
