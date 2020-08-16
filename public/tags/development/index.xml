@@ -6,10 +6,19 @@
     <description>Recent content in development on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Another Brick in The Wall - Part 3</title>
+      <link>/blog/2020-08-16-abitw-three/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-08-16-abitw-three/</guid>
+      <description>__  The other elephant While discussing the challenges in the Indian education ecosystem over the past couple of I did not address one key aspect, the pandemic. I don’t know if you have noticed, things are pretty much put on hold right now. The world is waiting for a signal to resume business as usual, and no one is sure when that will happen (if that ever happens).</description>
+    </item>
     
     <item>
       <title>Another Brick in The Wall - Part 2</title>
@@ -54,18 +63,6 @@
       
       <guid>/blog/2020-08-05-data-suite/</guid>
       <description>__  Landscape The extensive list of challenges the development sector faces are well documented and understood. One aspect that I beleive is still underserved is the data literacy and capacity of the organisation in the space. In today’s world where data has become such a key factor in of the impact conversation, for good or for bad, it requires more attention. Even when substantial data collection efforts are undertaken by any organisation, the data architecture is always an after thought.</description>
-    </item>
-    
-    <item>
-      <title>Draft | Another Brick in The Wall - Part 3</title>
-      <link>/blog/2020-08-16-abitw-three/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020-08-16-abitw-three/</guid>
-      <description>  __  Watch This Space TATA!
-cube
-Part 1 &amp;amp; Part 2 of the series.
- </description>
     </item>
     
   </channel>
