@@ -2,7 +2,6 @@
 {{ with .Site.Params.Copyright.Prefix }}
     {{ . | markdownify }}  | 
 {{end}}
-&copy; 
 {{ with .Site.Params.copyright.url }}<a href="{{ . }}" target="_blank">{{ end }}
     {{ .Site.Params.copyright.name }}
 {{ with .Site.Params.copyright.url }}</a>{{ end }}
