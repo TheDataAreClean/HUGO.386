@@ -22,4 +22,4 @@ description: 'Coming soon..'
 
 **_cube_**
 
-[Part 1](https://thedataareclean.com/blog/2020-08-14-abitw-one/) & [Part 2](https://thedataareclean.com/blog/2020-08-15-abitw-two/) of the [series](https://thedataareclean.com/tags/abitw/).
+[Part 1](https://thedataareclean.com/blog/2020-08-14-abitw-one/){target="_blank"} & [Part 2](https://thedataareclean.com/blog/2020-08-15-abitw-two/){target="_blank"} of the [series](https://thedataareclean.com/tags/abitw/){target="_blank"}.
