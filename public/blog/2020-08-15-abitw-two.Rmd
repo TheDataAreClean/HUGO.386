@@ -33,7 +33,7 @@ For now the plan is to document these rights and understand which of these have 
 
 **Note**: As I also mentioned yesterday, all the [research](https://github.com/TheDataAreClean/education){target="_blank"} on this topic will be available in the open. You are welcome to use it, criticize it and contribute to it. Even the fundamental basis of this research.
 
-PS. There is an excellent children's [picture book](https://storyweaver.org.in/stories/108374-i-know-my-rights){target="_blank"} on the same topic published by the folks at my last organisation. I would strongly recommend checking it out.
+**PS.** There is an excellent children's [picture book](https://storyweaver.org.in/stories/108374-i-know-my-rights){target="_blank"} on the same topic published by the folks at my last organisation. I would strongly recommend checking it out.
 
 **_TATA!_**
 
