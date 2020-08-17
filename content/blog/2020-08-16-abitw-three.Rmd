@@ -16,25 +16,25 @@ description: 'FOSS-tering education..'
 * __
 
 # The other elephant
-While discussing the challenges in the Indian education ecosystem over the past couple of I did not address one key aspect, the pandemic. I don't know if you have noticed, things are pretty much put on hold right now. The world is waiting for a signal to resume business as usual, and no one is sure when that will happen (if that ever happens). 
+While discussing the challenges in the Indian education ecosystem over the past couple of blogs I did not address one key aspect, the pandemic. I don't know if you have noticed, things are pretty much put on hold right now. The world is waiting for a signal to resume business as usual, and no one is sure when that will happen (if that ever happens). 
 
 Amongst those in the same boat waiting are also the education sector folks, schools and colleges, teachers and students all waiting for the some sort of "next steps". There have also been [discussions](https://theprint.in/india/governance/current-academic-session-not-likely-to-be-treated-as-zero-year-govt-tells-parliamentary-panel/478981/) whether the current academic year should be suspended. I am not sure where is stand on that bit, the costs on either side of the decision are too high.
 
 # Brick and Mortar
-Also a point to note is that the education system in India is not equipped to shift to an online medium in the remotest sense. Attempts to make this shift have faced [tough realities](https://timesofindia.indiatimes.com/city/delhi/day-2-du-exams-again-fail-to-score-much/articleshow/77493028.cms){target="_blank"} to put it mildly. There is an absolute need for physical spaces to sustain quality education in the near term. Having said that technology still has an important role to play in this journey.
+Also a point to note is that the education system in India is not equipped to shift to an online only model in the remotest sense. Attempts to make this shift have faced [tough realities](https://timesofindia.indiatimes.com/city/delhi/day-2-du-exams-again-fail-to-score-much/articleshow/77493028.cms){target="_blank"} to put it mildly. There is an absolute need for physical spaces to sustain quality education in the near term. Having said that technology still has an important role to play in this journey.
 
 # Enter FOSS
-I know you are skeptical, but hear me out. The role of software should be as an enabler of the already existing ecosystem, bridging the access gap of providing quality education resources to everyone who needs it. Also while being being careful that it does not increase the existing divide. So easy no?
+I know you are skeptical, but hear me out. The role of software should be as an enabler of the already existing ecosystem, bridging the access gap of providing quality education resources to everyone who needs it. Also while being careful that it does not increase the existing divide. So easy no?
 
-That's where Free and Open Software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software){target="_blank"}) comes in. FOSS can play an important role in education, especially in creating an equitable system of dissemination. White championing equity, there are additional benefits around cost, reliability, security and a philosophy that encourages adoption and localization. Evangelism much?
+That's where Free and Open Source Software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software){target="_blank"}) comes in. FOSS can play an important role in education, especially in creating an equitable system of dissemination. White championing equity, there are additional benefits around cost, reliability, security and a philosophy that encourages adoption and localization. Evangelism much?
 
 # National Interest
 At the national level there have been various FOSS [products](https://www.meity.gov.in/content/foss-products){target="_blank"} and [initiatives](https://www.meity.gov.in/content/major-foss-initiatives){target="_blank"}. The Government of India also has national level [Open Source Software Policy](https://digitalindia.gov.in/content/open-source-%E2%80%94-extremely-important-aspect-digital-india){target="_blank"} and centrally sponsored schemes like **National Mission in Education through ICT** ([NMEICT](https://nmeict.ac.in/){target="_blank"}) for the education setup.
 
-The challenge is that these government FOSS programmes have not seen the lateral adoption envisioned. Even when schemes like NMEICT do mention the use of FOSS in pockets, it is not a central theme of the programme to encourage widespread adoption.
+The challenge is that these government FOSS programmes have not seen the lateral adoption envisioned. Even when schemes like NMEICT do mention the use of FOSS in pockets, it is not a central theme of the scheme to encourage widespread adoption.
 
 # Learn from the past
-Now more than ever before it is an important to think about FOSS and education together. Not as a bystander, buy an important piece of the solving the education puzzle. Because whether we like it or not, a lot is going to change in the education space permanently because of this pandemic. It's for us to decide if it changes for good or bad and what role FOSS plays in it.
+Now more than ever before it is an important to think about FOSS and education together. Not as a bystander, but an important piece of the solving the education puzzle. Because whether we like it or not, a lot is going to change in the education space permanently because of this pandemic. It's for us to decide if it changes for good or bad and what role FOSS plays in it.
 
 **Note**: All the [research](https://github.com/TheDataAreClean/education){target="_blank"} on this topic will be available in the open. You are welcome to use it, criticize it and contribute to it. Even the fundamental basis of this research.
 
