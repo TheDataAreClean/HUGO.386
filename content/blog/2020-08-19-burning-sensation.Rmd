@@ -7,6 +7,7 @@ categories:
   - mental health
 tags:
   - 100days
+  - learn
   - musings
 description: 'Learning cliff !'
 ---
