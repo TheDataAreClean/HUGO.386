@@ -6,10 +6,19 @@
     <description>Recent content in 100days on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/100days/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Who&#39;s Story Is It Anyway?</title>
+      <link>/blog/2020-08-21-history/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-08-21-history/</guid>
+      <description>__  Collation For a while, I have been working on a project to chronicle the Free and Open Source Software (FOSS) movement around the world. and specifically in India. One of the objectives is to understand the major events, stakeholders and how we reached where we did today. The entire process has been an incredible experience with so my many of my assumption broken and my views repeatedly realigned.</description>
+    </item>
     
     <item>
       <title>Unlearn</title>

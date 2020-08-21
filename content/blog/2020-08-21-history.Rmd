@@ -1,0 +1,38 @@
+---
+title: Who's Story Is It Anyway?
+author: TheDataAreClean
+date: '2020-08-21'
+slug: 2020-08-21-history
+categories:
+  - education
+tags:
+  - 100days
+  - law and justice
+  - history
+description: 'For the records..'
+---
+
+* __
+
+# Collation
+For a while, I have been working on a project to chronicle the [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software){target="_blank"} (FOSS) movement around the world. and specifically in India. One of the objectives is to understand the major events, stakeholders and how we reached where we did today. The entire process has been an incredible experience with so my many of my assumption broken and my views repeatedly realigned. Learning from a series of events unfolding, something that you cannot understand by just analysing the current state of things.
+
+# Selection
+While chronicling I am constantly undecided on which events from the history of the movement should be included. I feel talking about the [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention){target="_blank"} is important as it played an integral part in modern copyright laws. Which licenses should I chronicle, [GPL 1.0](https://www.gnu.org/licenses/old-licenses/gpl-1.0.html){target="_blank"} is definitely going in, and some Open Source licenses and how they moved away from [Free Software](https://en.wikipedia.org/wiki/Free_software){target="_blank"}. How the movement came to India, and how the national history and [Kerala's history](https://swatantryam.blogspot.com/2007/08/story-of-free-software-in-kerala-india.html){target="_blank"} are two huge components in where were are today as a country. Then There are so many things, and I want to talk about everything!
+
+# Exclusion
+Then comes the most difficult part of the process, what do you leave out in your retelling. I already have a larger narrative I am trying to talk about, looking at the FOSS movement and it's expansion around the globe. There are so many times I am considering including an invent wondering if it played a big role in in making FOSS what it is today. Do I also also include the multiple version of an event that repeated across geographies? When does the retelling lose it's impact? Who am I to decide what someone else's version of history should be?
+
+Maybe what I am discovering and reading has already left out other marginalised members of the movement in numerous cases. History is often written by people in power shaping the narrative to their convenience, it definitely would've! And mine is a fairly easier history to tell. Even if I am wrong, correcting myself will be easy and the harm it brings to the movement will be negligible. What about movements where lives are at stake, how do you chronicle them and still do justice?
+
+# Education
+That brings me to the primary reason why we are doing this exercise. Educating the world on the history of this incredible movement that all of us are impacted by everyday of our lives. How things have happened and how they can be, the good and the bad.
+
+# Celebration
+What I also hope this project highlights is the the need for nuance in any retelling of a major movement. Help everyone learn and grow with the complexities of this movement. I hope everyone understand there are no binaries in any event, there are layered realities we have to accept, learn from and grow.
+
+**PS.** I think it's also important to mention with regards to the FOSS movement chronicling, we will be opening it up for contributions so it is an ever updating history of the movement. A history retold as witnessed by the community, like the movement itself. More on that when the time comes.
+
+**_TATA!_**
+
+**_cube_**
