@@ -4,22 +4,47 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/100days/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/abitw/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020-08-25-abitw-four/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/education/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/musings/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -34,16 +59,6 @@
   
   <url>
     <loc>/categories/me/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/musings/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -70,11 +85,6 @@
   <url>
     <loc>/blog/2020-08-22-what-next/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/education/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -115,11 +125,6 @@
   <url>
     <loc>/blog/2020-08-17-sneak-peak/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/abitw/</loc>
-    <lastmod>2020-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
