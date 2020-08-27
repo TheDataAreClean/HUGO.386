@@ -6,10 +6,20 @@
     <description>Recent content in 100days on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/100days/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Step Zero</title>
+      <link>/blog/2020-08-27-step-zero/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-08-27-step-zero/</guid>
+      <description>__  PSA - I have had an extremely long week and am exhausted as fuck. Probably just going to steal some ideas from my research and spew some garbage. Let me know if it’s too bad. Or just skip it, I don’t want you to suffer through this.
+As mentioned in one of my earlier blogs, I have been working on a report to better understand the Free and Open Source Software (FOSS) ecosystem in India.</description>
+    </item>
     
     <item>
       <title>New Cube Policy</title>
