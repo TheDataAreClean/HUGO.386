@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>development on TheDataAreClean</title>
-    <link>/categories/development/</link>
-    <description>Recent content in development on TheDataAreClean</description>
+    <title>organphilase on TheDataAreClean</title>
+    <link>/tags/organphilase/</link>
+    <description>Recent content in organphilase on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/organphilase/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>/blog/2020-08-29-sure-but/</guid>
       <description>__  I have worked in the development sector for a few years now and will probably do so for the rest of my life. This is the only thing I find worth doing. I have worked with with non-profits, CSR teams, volunteer organisations and more. I am pretty thankful I got to do some of that work I did, along the way I got to learn a lot about how the system of working in the sector works.</description>
-    </item>
-    
-    <item>
-      <title>Step Zero</title>
-      <link>/blog/2020-08-27-step-zero/</link>
-      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020-08-27-step-zero/</guid>
-      <description>__  PSA - I have had an extremely long week and am exhausted as fuck. Probably just going to steal some ideas from my research and spew some garbage. Let me know if it’s too bad. Or just skip it, I don’t want you to suffer through this.
-As mentioned in one of my earlier blogs, I have been working on a report to better understand the Free and Open Source Software (FOSS) ecosystem in India.</description>
     </item>
     
   </channel>
