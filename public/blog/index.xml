@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Working Model</title>
+      <link>/blog/2020-09-03-working-model/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-09-03-working-model/</guid>
+      <description>__  Work I have only had a little over 4 years of professional work experience till now, but it has been a pretty fascinating journey. The amount I have personally evolved, from the people and places I have been involved with, to all the good and bad decisions I have made is really something. I get this sense of becoming a new person everytime I switch jobs, someone wiith a better understanding of the world around thmeselves.</description>
+    </item>
     
     <item>
       <title>The Good Things</title>

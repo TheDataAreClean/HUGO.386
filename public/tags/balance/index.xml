@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>work on TheDataAreClean</title>
-    <link>/categories/work/</link>
-    <description>Recent content in work on TheDataAreClean</description>
+    <title>balance on TheDataAreClean</title>
+    <link>/tags/balance/</link>
+    <description>Recent content in balance on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/balance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/blog/2020-09-03-working-model/</guid>
       <description>__  Work I have only had a little over 4 years of professional work experience till now, but it has been a pretty fascinating journey. The amount I have personally evolved, from the people and places I have been involved with, to all the good and bad decisions I have made is really something. I get this sense of becoming a new person everytime I switch jobs, someone wiith a better understanding of the world around thmeselves.</description>
-    </item>
-    
-    <item>
-      <title>Split it Fairly</title>
-      <link>/blog/2020-08-12-split-it-fairly/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020-08-12-split-it-fairly/</guid>
-      <description>__  Everything I don’t know if you have noticed, the world has been pretty much going down in shits recently. Look anywhere, there is this long drawn process of alienation (through the structures of society) and polarisation (by the power bearers of the same structures), leading to rise in multiple forms of extremism. Hint: Capitalism. I am not a particularly hopeful person when it comes to the human race as a whole, the current scenario doesn’t help the case either.</description>
     </item>
     
   </channel>

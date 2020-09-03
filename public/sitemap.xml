@@ -4,22 +4,47 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/100days/</loc>
-    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/balance/</loc>
+    <lastmod>2020-09-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/musings/</loc>
+    <lastmod>2020-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/work/</loc>
+    <lastmod>2020-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020-09-03-working-model/</loc>
+    <lastmod>2020-09-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -34,11 +59,6 @@
   
   <url>
     <loc>/categories/me/</loc>
-    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -59,11 +79,6 @@
   
   <url>
     <loc>/categories/mental-health/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/musings/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -244,11 +259,6 @@
   
   <url>
     <loc>/blog/2020-08-12-split-it-fairly/</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/work/</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
   </url>
   
