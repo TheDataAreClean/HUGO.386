@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>organise on TheDataAreClean</title>
-    <link>/tags/organise/</link>
-    <description>Recent content in organise on TheDataAreClean</description>
+    <title>productivity on TheDataAreClean</title>
+    <link>/tags/productivity/</link>
+    <description>Recent content in productivity on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/organise/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/blog/2020-09-06-productivity-tool-trap/</guid>
       <description>__  I am obsessed with organisation. Day 2 of being back home, I was alreqady cleaning up cupboards and organising my room. I love when everything is stored in a place made exactly for it. In short, I am insufferable. But leaving that part aside, I love doing the same thing for my work. Using productivity tools to meticulously document and arrange every last piece and then bask in the glory of perfection.</description>
-    </item>
-    
-    <item>
-      <title>Order, Order</title>
-      <link>/blog/2020-08-28-order-order/</link>
-      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020-08-28-order-order/</guid>
-      <description>__  I have a small confession to make. I absolutely didn’t feel like writing today. I have been working on a report and for the last couple of weeks and writing the first draft and it’s become a bit of an overload. I was struggling nailing down a topic for today and have started writing this at 22:31 HRS, by which time I am usually asleep, and I still don’t have a clear idea on today’s blog.</description>
     </item>
     
   </channel>
