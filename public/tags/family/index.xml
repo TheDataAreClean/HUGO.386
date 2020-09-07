@@ -6,10 +6,19 @@
     <description>Recent content in family on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/family/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tribal Tendencies</title>
+      <link>/blog/2020-09-07-tribal-tendencies/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-09-07-tribal-tendencies/</guid>
+      <description>__  For all its faults, working in the development sector is fairly satisfying. Not always rewarding, but satisfying. In my short-ish experience working the space for the last few years I was always the “Data Guy” in the office, also the default tech support in some cases. That’s says a lot when I truly believe I am not a tech person in the remotest sense of the word.</description>
+    </item>
     
     <item>
       <title>The Good Things</title>

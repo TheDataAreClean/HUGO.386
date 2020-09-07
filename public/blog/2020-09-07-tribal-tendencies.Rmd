@@ -1,0 +1,29 @@
+---
+title: Tribal Tendencies
+author: TheDataAreClean
+date: '2020-09-07'
+slug: 2020-09-07-tribal-tendencies
+categories:
+  - community
+tags:
+  - 100days
+  - family
+  - learn
+description: 'Finding your kind of people.'
+---
+
+* __
+
+For all its faults, working in the development sector is fairly satisfying. Not always rewarding, but satisfying. In my short-ish experience working the space for the last few years I was always the "Data Guy" in the office, also the default tech support in some cases. That's says a lot when I truly believe I am not a tech person in the remotest sense of the word.
+
+But yes, I was the only "Data Guy" in most places I worked or collaborated. All the random requests about anything data related used to come to me, some of them so stupid that it was amusing. But it was also a great feeling to get that level of importance, made you feel like you were something fancier than it actually is. 
+
+But all that importance comes at a cost. That cost is personal growth. Everytime I had a query, I had to either resolve it myself, or find a crude way of resolving it. Who is going to review my code? Everytime I wanted to discuss a new solution, I just had to trust my instinct. Everytime I had to do a data analysis, I better stick to simple bar charts because that's all the stakeholders understand. 
+
+The whole system makes you lazy and uninspired. If you want to learn anything, you better find your own time to expand your skillset. The place can only serve you so much. It takes a lot of hard work overcoming laziness and staying motivated to do new things and come up with better ideas. It's not like those places doesn't have ideas or innovation, it's just in areas you have little to contribute beyond a point.
+
+Not I am at my new job, where I still work in the development sector, but the working model is different. I have an amazing amount of individuals around me who inspire me everyday. And it is a delight to learn from them everyday, I had two knowledge sharing sessions today, two! And not once the quality of work was lower that what I demanded. It was a good day.
+
+**_TATA!_**
+
+**_cube_**
