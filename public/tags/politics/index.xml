@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>travel on TheDataAreClean</title>
-    <link>/categories/travel/</link>
-    <description>Recent content in travel on TheDataAreClean</description>
+    <title>politics on TheDataAreClean</title>
+    <link>/tags/politics/</link>
+    <description>Recent content in politics on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/politics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>/blog/2020-09-09-travelogue-two/</guid>
       <description>__  One of the biggest grinds I have with living at home is my parents watch a lot of television. Nothing wrong with that, please go ahead watch as much as you like, enjoy the fuck out of it. But at our home, family time is television time. That means you have to sit with them while they also simultaneously entertain themselves with objectionable garbage.
 I on the other hand absolutely despise television, specially the ones that are turned on.</description>
-    </item>
-    
-    <item>
-      <title>Travelogue - Part 1</title>
-      <link>/blog/2020-09-05-travelogue-one/</link>
-      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020-09-05-travelogue-one/</guid>
-      <description>__  Today is my first blog from a different location! I am finally in Delhi, away from the comfort of my study table (right now at my sister’s study table). This whole making the decision of coming to Delhi and everything else around it has been some journey, a metaphorical one before the real one today. I have written about it enough times to refer all of them here, but you are always welcome to read the latest update and track back.</description>
     </item>
     
   </channel>
