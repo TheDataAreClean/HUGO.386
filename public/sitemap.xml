@@ -4,22 +4,42 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/100days/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/anger/</loc>
+    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/me/</loc>
+    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020-09-11-violent-streak/</loc>
+    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -34,16 +54,6 @@
   
   <url>
     <loc>/tags/ego/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/me/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url>
   
