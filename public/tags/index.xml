@@ -6,7 +6,7 @@
     <description>Recent content in Tags on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>100days</title>
       <link>/tags/100days/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/100days/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>family</title>
+      <link>/tags/family/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travelogue</title>
+      <link>/tags/travelogue/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/travelogue/</guid>
       <description></description>
     </item>
     
@@ -48,29 +66,11 @@
     </item>
     
     <item>
-      <title>family</title>
-      <link>/tags/family/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/family/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>politics</title>
       <link>/tags/politics/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>travelogue</title>
-      <link>/tags/travelogue/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/travelogue/</guid>
       <description></description>
     </item>
     

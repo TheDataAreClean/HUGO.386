@@ -25,8 +25,10 @@ It's the other bit that drives me up the wall. It's the so called "news" channel
 
 The television news ecosystem is broken to the core. The revenue model of the entire setup is advertising, and the point of having viewers is to have eyeballs, not to inform. As long as you are watching, the news channels are getting paid. If you want news that speaks for you, you will have to pay for it instead of the advertisers. If you want entertainment, I guess you are more than sorted. 
 
-**PS.** On a completely different note, I am thinking of trying a [new design](https://tdac.netlify.app/){target="_blank"} for my website. Something a little more simple and clean. Would love any feedback, reactions, suggestions. Thank you!
-
 **_TATA!_**
 
 **_cube_**
+
+**PS.** This post is part of a series of post on my visit back home. You can find all of them [here](https://thedataareclean.com/tags/travelogue/){target="_blank"}.
+
+**PPS.** On a completely different note, I am thinking of trying a [new design](https://tdac.netlify.app/){target="_blank"} for my website. Something a little more simple and clean. Would love any feedback, reactions, suggestions. Thank you!
