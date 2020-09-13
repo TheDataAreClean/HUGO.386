@@ -10,7 +10,7 @@ tags:
   - foss
   - oer
   - r
-description: '"Open" for business..'
+description: 'Open for business..'
 ---
 
 * __
