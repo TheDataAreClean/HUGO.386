@@ -1,0 +1,37 @@
+---
+title: Free and Open Source Advertisement
+author: TheDataAreClean
+date: '2020-09-13'
+slug: 2020-09-13-free-ads
+categories:
+  - technology
+tags:
+  - 100days
+  - foss
+  - oer
+  - r
+description: 'Open for business..'
+---
+
+* __
+
+Today my friend shared a [tweet](https://twitter.com/kareem_carr/status/1304789447670718464){target="_blank"} with me which caught my my atention. The tweet was by [Kareem Carr](https://twitter.com/kareem_carr){target="_blank"}, who by the way is amazing and you should follow if you work with [`R`](https://cran.r-project.org/){target="_blank"} or **Statistics**, bringing everyone's attention to the `tidyquant` package. Apparently when you load the package it serves with an "ad". But before we get into the whole idea of what this means and why does it matter. I think will be clear to state some of my biases that may seep into the narrative.
+
+### Biases
+**_1_**  I am currently co-authoring a report on the state of Free and Open Source Software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software){target="_blank"}) in India. Something I have written about a few times from different [lenses](https://thedataareclean.com/tags/foss/){target="_blank"}.
+
+**_2_**  I am primarily writing about the need of FOSS in education, and even outside of that I strongly believe in the the idea of Open Educational Resources ([OERs](https://en.wikipedia.org/wiki/Open_educational_resources){target="_blank"}).
+
+**_3_** I absolutely despise the digital tracking and advertising industry, also capitalism for that matter. Again, something I have shared my thoughts on [before](https://thedataareclean.com/blog/2020-08-07-saving-private-data/){target="_blank"}.
+
+Now, coming back to the matter at hand. The package and the ad. When you load the `tidyquant` package, it gives you a message for the [Learning Labs Pro](https://university.business-science.io/p/learning-labs-pro){target="_blank"} program of [Business-Science.io](https://www.business-science.io/){target="_blank"}. The program is a paid course, rather expensive one if I can add, around a variety or topics not limited by either `tidyquant` or `R`. One quick look at the package [documentation](https://cran.r-project.org/package=tidyquant){target="_blank"}, you will notice that the primary authors and maintainers of the `tidyquant` package are also the same folks from Business-Science.io. And the package is a available on `CRAN` which is a fairly decent standard for andy `R` package.
+
+Moving beyond the package let's look at the message one more time. If you refer to the tweet again, it technically talks about that one course related to the topic at hand. But if yoy want to enroll, essentially you get into a monthly plan with a lot more things involved. At this point, I am also aware I might be scrutinizing the situation to a point that's maybe beyond fair. FOSS development is a rewarding yet brutal space. You barely get paid enough, if at all, for all the hard work that goes into developing for the community. And since it is a community, different members come from different background and different realities, it is not an unreasonable demand to ask for money for the hard work someone have put in.
+
+The question then becomes, how do you ask for it. How do you demand a monetary compensation, and what is fair? There is a common practice of asking for donations, patrons help continue development of a project / package. The same could have been applied here, why refer to the entire course program? Was the official documentation of the package not sufficient? Was the detailed supporting material linked on the GitHub [repo](https://github.com/business-science/tidyquant){target="_blank"} not sufficient? The dilemma I am facing is that the move was creating some sort of a barrier to knowledge, while this information and related help is openly available to everyone. All of this, in my opinion, makes the move go against purpose of these open packages and definitely against the purpose of open source development.
+
+**_TATA!_**
+
+**_cube_**
+
+**PS.** An event on similar lines took place across the pond in the `core-js` development space last year. Do read the issue [thread](https://github.com/zloirock/core-js/issues/548){target="_blank"} for all kinds of interesting arguments.

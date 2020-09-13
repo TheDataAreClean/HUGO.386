@@ -6,10 +6,19 @@
     <description>Recent content in 100days on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/100days/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Free and Open Source Advertisement</title>
+      <link>/blog/2020-09-13-free-ads/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-09-13-free-ads/</guid>
+      <description>__  Today my friend shared a tweet with me which caught my my atention. The tweet was by Kareem Carr, who by the way is amazing and you should follow if you work with R or Statistics, bringing everyone’s attention to the tidyquant package. Apparently when you load the package it serves with an “ad”. But before we get into the whole idea of what this means and why does it matter.</description>
+    </item>
     
     <item>
       <title>Travelogue - Part 3</title>
