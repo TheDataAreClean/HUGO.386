@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Work Plan</title>
+      <link>/blog/2020-09-14-work-plan/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-09-14-work-plan/</guid>
+      <description>__  I recently noticed a pattern in my daily blogs, specially the ones which are more personal. I start by telling something about myself, my habits, my way of being, or something else. I follow it up by contradicting myself literally in the next fucking statement. I am still not clear how I always end up doing that. Maybe it’s growth in certain aspects of life, maybe I a don’t know anything about myself at all.</description>
+    </item>
     
     <item>
       <title>Free and Open Source Advertisement</title>
