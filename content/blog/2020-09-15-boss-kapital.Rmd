@@ -8,7 +8,7 @@ categories:
 tags:
   - 100days
   - musings
-description: 'The clow..'
+description: 'The claw..'
 ---
 
 * __
