@@ -9,7 +9,7 @@ tags:
   - 100days
   - history
   - travelogue
-description: 'Where do you come from ?'
+description: 'Where do we come from ?'
 ---
 
 * __
