@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>history on TheDataAreClean</title>
-    <link>/tags/history/</link>
-    <description>Recent content in history on TheDataAreClean</description>
+    <title>family on TheDataAreClean</title>
+    <link>/categories/family/</link>
+    <description>Recent content in family on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/history/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/family/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/blog/2020-09-16-looking-back/</guid>
       <description>__  Dealing with parents tricky. You have different world views, different perspectives, different preferences on almost everything. It becomes difficult to bring those two lifestyles together, something I have been struggling with since I have come home to visit my folks. There are smaller things like my schedule is a little messed up, I am not getting enough sleep but then also the bigger things like how they respond to the world changing around them.</description>
-    </item>
-    
-    <item>
-      <title>Who&#39;s Story Is It Anyway?</title>
-      <link>/blog/2020-08-21-history/</link>
-      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020-08-21-history/</guid>
-      <description>__  Collation For a while, I have been working on a project to chronicle the Free and Open Source Software (FOSS) movement around the world. and specifically in India. One of the objectives is to understand the major events, stakeholders and how we reached where we did today. The entire process has been an incredible experience with so my many of my assumption broken and my views repeatedly realigned.</description>
     </item>
     
   </channel>
