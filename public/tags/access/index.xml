@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>access on TheDataAreClean</title>
+    <link>/tags/access/</link>
+    <description>Recent content in access on TheDataAreClean</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/access/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Access</title>
+      <link>/blog/2020-09-17-access/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-09-17-access/</guid>
+      <description>__  PSA - Today’s blog is about a space where my knowledge is fairly limited. Please feel free to point out any stupid ideas I have proposed.
+I have had the fortune in some extremely rewarding discussion over the last few weeks. All of these discussion centre around some or the challenge that we are trying to approach in the development sector, civic engagement space. While having these discussions I always found myself landing on the same fundamental challenge, no matter what the sector or problem was being discussed.</description>
+    </item>
+    
+  </channel>
+</rss>

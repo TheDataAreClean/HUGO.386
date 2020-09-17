@@ -1,0 +1,33 @@
+---
+title: Access
+author: TheDataAreClean
+date: '2020-09-17'
+slug: 2020-09-17-access
+categories:
+  - development
+tags:
+  - 100days
+  - access
+  - social
+description: 'The fundamental challenge.'
+---
+
+* __
+
+**PSA** - Today's blog is about a space where my knowledge is fairly limited. Please feel free to point out any stupid ideas I have proposed.
+
+I have had the fortune in some extremely rewarding discussion over the last few weeks. All of these discussion centre around some or the challenge that we are trying to approach in the development sector, civic engagement space. While having these discussions I always found myself landing on the same fundamental challenge, no matter what the sector or problem was being discussed.
+
+The fundamental challenge is that of access. Anything societal problem you want to address, the ways to address it always boils down to access. Access to resources, access to opportunity, access to choice. Let's take a couple of examples to test this argument, I am really trimming down the arguments for the sake of this blog, let me know if it doesn't make sense. A functioning judicial system at the most basic level requires every individual has equal access to their rights. A better city for marginalised communities requires equitable access to resources and opportunities. A child in the education ecosystem requires uninterrupted access to quality teaching, learning and growing avenues.
+
+One advantage of approaching a problem through this lens is that any individual or collaborative is not in complete control of the the information that goes across, the primary responsibility becomes to ensure access. Access with the vision and hope that the natural market factors and competition addresses all the other issues around quality and sustainability. 
+
+Another issue this approach addresses is that it removes the burden of providing and regulating from the administration and makes them incharge of enforcement, the most important and undeserved bit in the entire process.
+
+As I finish this blog, I am left thinking of this quote from the book [The Kite Runner](https://www.goodreads.com/book/show/77203.The_Kite_Runner){target="_blank"} by Khaled Hosseini which has stayed with me for all these years. I don't know if it fits here very well, but I will give it a shot.
+
+> “There is only one sin. and that is theft... when you tell a lie, you steal someones right to the truth.”
+
+**_TATA!_**
+
+**_cube_**
