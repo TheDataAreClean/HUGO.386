@@ -6,10 +6,19 @@
     <description>Recent content in 100days on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/100days/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Teaching Is Learning</title>
+      <link>/blog/2020-09-19-teach-learn/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-09-19-teach-learn/</guid>
+      <description>__  Teaching Recently I have been doing some R session for the folks at my workplace. It’s only been a couple of weeks but it’s made me think about a lot of things. About how so much of teaching involves learning and relearning, about condensing all the information into meaningful sessions, about how teaching is fucking rewarding and why don’t I do it more often? There is a lot to unpack here, let’s tackle all of them one by one.</description>
+    </item>
     
     <item>
       <title>Drag Me Up</title>

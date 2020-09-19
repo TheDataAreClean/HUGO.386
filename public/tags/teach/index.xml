@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>r on TheDataAreClean</title>
-    <link>/tags/r/</link>
-    <description>Recent content in r on TheDataAreClean</description>
+    <title>teach on TheDataAreClean</title>
+    <link>/tags/teach/</link>
+    <description>Recent content in teach on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/teach/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/blog/2020-09-19-teach-learn/</guid>
       <description>__  Teaching Recently I have been doing some R session for the folks at my workplace. It’s only been a couple of weeks but it’s made me think about a lot of things. About how so much of teaching involves learning and relearning, about condensing all the information into meaningful sessions, about how teaching is fucking rewarding and why don’t I do it more often? There is a lot to unpack here, let’s tackle all of them one by one.</description>
-    </item>
-    
-    <item>
-      <title>Free and Open Source Advertisement</title>
-      <link>/blog/2020-09-13-free-ads/</link>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020-09-13-free-ads/</guid>
-      <description>__  Today my friend shared a tweet with me which caught my my atention. The tweet was by Kareem Carr, who by the way is amazing and you should follow if you work with R or Statistics, bringing everyone’s attention to the tidyquant package. Apparently when you load the package it serves with an “ad”. But before we get into the whole idea of what this means and why does it matter.</description>
     </item>
     
   </channel>

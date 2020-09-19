@@ -1,0 +1,35 @@
+---
+title: Teaching Is Learning
+author: TheDataAreClean
+date: '2020-09-19'
+slug: 2020-09-19-teach-learn
+categories:
+  - learn
+tags:
+  - 100days
+  - r
+  - teach
+description: 'What R we doing here ?'
+---
+
+* __
+
+# Teaching
+
+Recently I have been doing some `R` session for the folks at my workplace. It's only been a couple of weeks but it's made me think about a lot of things. About how so much of teaching involves learning and relearning, about condensing all the information into meaningful sessions, about how teaching is fucking rewarding and why don't I do it more often? There is a lot to unpack here, let's tackle all of them one by one. 
+
+# Learning
+Let's take the current use case. `R` is a language I feel extremely comfortable with, I have been working with it for over 6 years now. I love the language and the community so much that you can call me an `R` evangelist and I would probably agree. And when I was beginning these sessions, sure the main purpose was teaching everyone the concepts and working together, but I also wanted to showcase the magic of the language. When I was scripting these sessions, I realsied I was also learning again. After 6 years I have all the information in my head without any structure, and this whole exercise was also refining my standards of usage.
+
+# Condensing
+This next bit is the trickiest one for me. When you are aware of the possibilities of a tool and wholeheartedly believe in the value it adds, it becomes a little challenging to be subtle about it. I feel the same with `R`, I want everyone to know everything amazing about the language, but have to to wrap it into consumable bites. I have to understand to that not everyone comes from the same space and I have to respect their interest.
+
+# Rewarding
+The last bit is something I am still confused about. It's extremely rewarding to teach, I have done it a few odd times with my younger sister, I have been a guest lecturer and now I am doing this series. 3 very different formats, but I have enjoyed every second of it from start to end. Every time I do something like this, I wonder do I want to continue this beyond these one-off things. But then I forget about it till the next time. Maybe that's a sign I don't really want to do it. I don't know, I will figure out I guess.
+
+# Continuing ? 
+For now I will focus on these `R` sessions. And to make them a little more interesting, we are doing [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) challenges and showcasing our work. And all 3 aspects I mentioned above will come into play when I prepare for the session. And who knows, if these sessions go well I might do some around **Statistics** soon!
+
+**_TATA!_**
+
+**_cube_**
