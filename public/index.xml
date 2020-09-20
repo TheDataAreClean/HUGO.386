@@ -6,10 +6,20 @@
     <description>Recent content on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aim High ! Go Low !</title>
+      <link>/blog/2020-09-20-high-low/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-09-20-high-low/</guid>
+      <description>__  Like I mentioned in yesterday’s blog, I have been doing these weekly R sessions at my workplace and thoroughly enjoying them. And for these session, we decide to do some #TidyTuesday challenges to learn together. Today’s session is about that, my journey to attempt the challenge, attempt a fancy blog around it, and then settling for what you are reading right now. Sorry about that!
+So it started with looking at the data, which to be fair is a brilliant one this week.</description>
+    </item>
     
     <item>
       <title>Teaching / Learning</title>
