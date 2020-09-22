@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ai on TheDataAreClean</title>
+    <link>/tags/ai/</link>
+    <description>Recent content in ai on TheDataAreClean</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hype Machine Learning</title>
+      <link>/blog/2020-09-22-hype-ml/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-09-22-hype-ml/</guid>
+      <description>__  Do you know about machine learning? Do you know about artificial intelligence? Do you know that it’s the greatest thing that has ever happened in the history of the universe? Do you know data is the new oil? Are you loosing out on the discovery of the century? Do you want to know the secret? Don’t you need to succeed in your business? How can you have a business that thinks rationally and doesn’t fall for this bullshit?</description>
+    </item>
+    
+  </channel>
+</rss>
