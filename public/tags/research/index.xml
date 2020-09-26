@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>learn on TheDataAreClean</title>
-    <link>/categories/learn/</link>
-    <description>Recent content in learn on TheDataAreClean</description>
+    <title>research on TheDataAreClean</title>
+    <link>/tags/research/</link>
+    <description>Recent content in research on TheDataAreClean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/learn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>/blog/2020-09-26-lost-in-consumption/</guid>
       <description>__  A few months ago, I started this personal research project better understand the challenges of education sector in India from two lenses of Child Rights and FOSS. I was extremely excited about the idea, and wanted to try a bunch of things.
 Once I started researching I realised that how a small idea in my head just turned into this vast universe. Now matter how I tried to address it, I was getting lost in more and more questions.</description>
-    </item>
-    
-    <item>
-      <title>Teaching / Learning</title>
-      <link>/blog/2020-09-19-teach-learn/</link>
-      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020-09-19-teach-learn/</guid>
-      <description>__  Teaching Recently I have been doing some R session for the folks at my workplace. It’s only been a couple of weeks but it’s made me think about a lot of things. About how so much of teaching involves learning and relearning, about condensing all the information into meaningful sessions, about how teaching is fucking rewarding and why don’t I do it more often? There is a lot to unpack here, let’s tackle all of them one by one.</description>
     </item>
     
   </channel>

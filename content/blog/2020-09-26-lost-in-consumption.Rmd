@@ -1,0 +1,28 @@
+---
+title: Lost In Consumption
+author: TheDataAreClean
+date: '2020-09-26'
+slug: 2020-09-26-lost-in-consumption
+categories:
+  - learn
+tags:
+  - 100days
+  - research
+description: 'Rabbit hole..'
+---
+
+* __
+
+A few months ago, I started this personal [research](https://thedataareclean.com/blog/2020-08-14-abitw-one/){target="_blank"} project better understand the challenges of education sector in India from two lenses of [Child Rights](https://thedataareclean.com/blog/2020-08-15-abitw-two/){target="_blank"} and [FOSS](https://thedataareclean.com/blog/2020-08-16-abitw-three/){target="_blank"}. I was extremely excited about the idea, and wanted to try a bunch of things.
+
+Once I started researching I realised that how a small idea in my head just turned into this vast universe. Now matter how I tried to address it, I was getting lost in more and more questions. And then I used to pick another random question, go explore it, that pain again had more questions and the cycle never stopped. To illustrate (and also fill this blog with content) I will give two examples, once from each project.
+
+In the first case, I was trying to identify education related rights in the [UNICEF Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention){target="_blank"}, map them to exiting laws and policies fostering education in the country and find the gaps in the system. Soon I realised due the federal system of the country it might be better to narrow the challenge down to the state level. Then also came the question of what roles judgements play in the formation of law in the geography. And how will I highlight the gaps, at a law level, public finance level, implementation level? I kept getting more and more confused.
+
+I was in a slightly little better position with regards to the FOSS challenge, mainly because I had done a lot of research for my work project. The objective was to under the role of [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software){target="_blank"} (FOSS) in improving access to education. I did a lot of good research in understanding the landscape, challenges and the need for FOSS. Then I just got exhausted a little and took a pause.
+
+The main challenge in both cases was the same, the problem statement was way too broad, if there was even a problem statement. In one case I just exhausted myself mapping the landscape and in other I just got lost multiple times along the way. A long conversation with a friend today made me realize where I was going wrong. I wanted to know everything and was struggling to nail down a challenge. But the better way to go about it might be to do first have a specific question in mind and then start answering that. Excited to see where v2.0 will go!
+
+**_TATA!_**
+
+**_cube_**
