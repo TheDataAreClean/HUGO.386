@@ -34,9 +34,11 @@ Now coming back to the story of my name, I think we can break it into 3 parts.
 
 **Part 3** - `Clean`  
 
-> This is the probably was today's blog about. There is a well accepted anecdote that on any data science project, you probably spend two quarters of your time cleaning the data. And I believe that to be true.
+> This is the probably was today's blog about. There is a well accepted anecdote that on any data science project, you probably spend two quarters of your time cleaning the data. And I believe that to be accurate and telling.
 
-So that's where I take you leave today. Hope you enjoyed reading this, as much as I did writing. Until the next one!
+Thus the name, `TheDataAreClean`. 
+
+So that's where I take your leave today. Hope you enjoyed reading this, as much as I did writing. Until the next one!
 
 **_TATA!_**
 
