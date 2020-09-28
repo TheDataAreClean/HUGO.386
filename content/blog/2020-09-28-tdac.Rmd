@@ -1,0 +1,43 @@
+---
+title: The Data Are Clean
+author: TheDataAreClean
+date: '2020-09-28'
+slug: 2020-09-28-tdac
+categories:
+  - data
+tags:
+  - 100days
+  - teach
+  - statistics
+description: ''
+---
+
+* __
+
+Today I want to talk about a topic that is closely intertwined with my identity, specifically my online identity. I am talking about `TheDataAreClean`, my username literally everyone one the internet. A couple of place I had to use an underscore at the end (mostly due to my mistake), and I am still annoyed about that. The story of why I picked this name is really short, but I have to fill this blog with some content. So here we go again.
+
+Today I was doing another one of my `R` [sessions](https://thedataareclean.com/blog/2020-09-19-teach-learn/){target="_blank"} with my colleagues and I realised how these session have become equally about teaching how to work with data as they are learning sessions. I get really excited about the fascinating questions I get, questions I probably stopped asking myself years ago. Question around just the idea of exploring data. 
+
+There is a lot of joy in exploring the data. It's probably the most laborious and nut the most rewarding task in the entire data pipeline. They feeling when you finally start to understand the data, how it's structured, what's it showing, what's it hiding, and what most importantly what it wants you to find out on your own. I don't think I am romanticizing it one bit, but I am also pretty biased so you shouldn't listen to me.
+
+One thing the entire exercise teaches you is to respect the dataset. Respect it even after it's flaws, because knowing those flaws makes you invincible. That even when you do all the fancy analysis and data science tomorrow, it will not throw you off the boat. The exploration you do today will make your life that much easier tomorrow. And that's what I always try to communicate with through these session. I hope I do a good job of it.
+
+Now coming back to the story of my name, I think we can break it into 3 parts. 
+
+**Part 1** - `TheData`  
+
+> This one is pretty straight forward. It's just driven by my fascination obsession of with data.
+
+**Part 2** - `Are`  
+
+> This is where it gets exciting for me. I am very aware that I am using plurality to define data. It was originally insipired by this comic [strip](https://twitter.com/phdcomics/status/1296758564594126849){target="_blank"} by [PHD Comics](http://phdcomics.com/){target="_blank"}. Over the years I have realised my stance on this keeps changing, and probably always will.
+
+**Part 3** - `Clean`  
+
+> This is the probably was today's blog about. There is a well accepted anecdote that on any data science project, you probably spend two quarters of your time cleaning the data. And I believe that to be true.
+
+So that's where I take you leave today. Hope you enjoyed reading this, as much as I did writing. Until the next one!
+
+**_TATA!_**
+
+**_cube_**

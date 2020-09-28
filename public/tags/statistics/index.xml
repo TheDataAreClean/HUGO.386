@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>statistics on TheDataAreClean</title>
+    <link>/tags/statistics/</link>
+    <description>Recent content in statistics on TheDataAreClean</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Data Are Clean</title>
+      <link>/blog/2020-09-28-tdac/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-09-28-tdac/</guid>
+      <description>__  Today I want to talk about a topic that is closely intertwined with my identity, specifically my online identity. I am talking about TheDataAreClean, my username literally everyone one the internet. A couple of place I had to use an underscore at the end (mostly due to my mistake), and I am still annoyed about that. The story of why I picked this name is really short, but I have to fill this blog with some content.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,36 +4,51 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/100days/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/education/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <loc>/categories/data/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/statistics/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/teach/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020-09-28-tdac/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/education/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -560,11 +575,6 @@
   <url>
     <loc>/blog/2020-08-06-the-balancing-act/</loc>
     <lastmod>2020-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/data/</loc>
-    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
