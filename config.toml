@@ -1,5 +1,5 @@
-baseURL = "https://thedataareclean.com"
-title = "TheDataAreClean"
+baseURL = "https://100-days.thedataareclean.com/"
+title = "100-days"
 languageCode = "en-in"
 DefaultContentLanguage = "en-in" # Change this to change the site's language
 theme = "hugo.386"
@@ -13,7 +13,7 @@ preserveTaxonomyNames = true
     mainpagesubtitle = "The data was dirty.." 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "Building sustainable data science solutions for the development sector."
+    mainpagedesc = "Trying the 100 Day Writing Challenge by Listed."
 
     # The name to display in the copyright section in the footer
     copyrightname = "CC BY 4.0"
@@ -54,23 +54,24 @@ preserveTaxonomyNames = true
 
 [menu]
   # This displays buttons in the navbar to access your contents
-  [[menu.main]]
-    identifier = "home" # An unique identifier for the button
-    name = "home"       # A display name for the button
-    url = "/"      # The path to the content. It can lead to a single page (like here)
-    weight = 10          # A number to order the buttons in the navbar
 
   [[menu.main]]
     identifier = "about" # An unique identifier for the button
     name = "about"       # A display name for the button
     url = "/about/"      # The path to the content. It can lead to a single page (like here)
-    weight = 20          # A number to order the buttons in the navbar
+    weight = 10          # A number to order the buttons in the navbar
 
   [[menu.main]]
     identifier = "blog"
     name = "blog"
     url = "/blog/"       # The path can lead to a content folder too.
-    weight = 30
+    weight = 20
+
+  [[menu.main]]
+    identifier = "parent" # An unique identifier for the button
+    name = "parent"       # A display name for the button
+    url = "https://thedataareclean.com/"   # The path to the content. It can lead to a single page (like here)
+    weight = 30          # A number to order the buttons in the navbar
 
 [taxonomies]
 category = "categories"
