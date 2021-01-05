@@ -1,13 +1,13 @@
 baseURL = "https://thedataareclean.com"
 title = "TheDataAreClean"
-languageCode = "en"
-DefaultContentLanguage = "" # Change this to change the site's language
+languageCode = "en-in"
+DefaultContentLanguage = "en-in" # Change this to change the site's language
 theme = "hugo.386"
 preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "Data for social reform."
+    mainpagetitle = " My first attempt at blogging."
 
     # The subtitle to display under the title in the home page
     mainpagesubtitle = "The data was dirty.." 
@@ -25,7 +25,7 @@ preserveTaxonomyNames = true
     showhugo = true
 
     # Urls for social networks
-    email = "mailto:info@thedataareclean.com"
+    email = "mailto:hello@thedataareclean.com"
     github = "https://github.com/TheDataAreClean"
     gitlab = "https://gitlab.com/TheDataAreClean"
     linkedin = "https://linkedin.com/in/thedataareclean/"
@@ -55,21 +55,26 @@ preserveTaxonomyNames = true
 [menu]
   # This displays buttons in the navbar to access your contents
   [[menu.main]]
+    identifier = "home" # An unique identifier for the button
+    name = "home"       # A display name for the button
+    url = "/"      # The path to the content. It can lead to a single page (like here)
+    weight = 10          # A number to order the buttons in the navbar
+
+  [[menu.main]]
     identifier = "about" # An unique identifier for the button
     name = "about"       # A display name for the button
     url = "/about/"      # The path to the content. It can lead to a single page (like here)
-    weight = 10          # A number to order the buttons in the navbar
+    weight = 20          # A number to order the buttons in the navbar
 
   [[menu.main]]
     identifier = "blog"
     name = "blog"
     url = "/blog/"       # The path can lead to a content folder too.
-    weight = 20
+    weight = 30
 
 [taxonomies]
 category = "categories"
 tag = "tags"
-
 
 [privacy]
 
